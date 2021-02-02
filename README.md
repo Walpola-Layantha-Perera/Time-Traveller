@@ -1,7 +1,7 @@
 Description of the APP: A vast amount of 2D images, 3D models and textual historical data has been generated already by academic, non-governmental and commercial organizations. Artificial Intelligence (AI) can help to interpret and present this big data of historical information on mobile apps in creative and interesting ways. Therefore, building an AI supported mobile app by using this big data to travel through the history of an architectural icon is the aim of this project.
 
-Short description about the app: Travel virtually to the history of buildings in Dresden, Germany.
-Long description: This app can be used to recognize landmark buildings, recognizing texts on historical buildings, and classification. Also, the app can be used to virtually travel to the history of buildings in Dresden, Germany.
+Short description about the app: Travel virtually to the history of buildings.
+Long description: This app can be used to recognize landmark buildings, recognizing texts on historical buildings, and classification. Also, the app can be used to virtually travel to the history of buildings.
 
 Features of the app: Tour with artificial intelligence, art history, buildings recognition, Classification, Image labelling, Text recognition, travel to past with mobile devices.
 
