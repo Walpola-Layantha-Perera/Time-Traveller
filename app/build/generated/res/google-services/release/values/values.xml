@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">399141108242-on8njdftnat8tr9ali91vg3scp1edd0n.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://timetraveler-c1046.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">399141108242</string>
+    <string name="google_api_key" translatable="false">AIzaSyCZQAPB3ewcx7ofGkE9LakaLSfWGYQwVDE</string>
+    <string name="google_app_id" translatable="false">1:399141108242:android:f7bb35f44a59839caa76cb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCZQAPB3ewcx7ofGkE9LakaLSfWGYQwVDE</string>
+    <string name="google_storage_bucket" translatable="false">timetraveler-c1046.appspot.com</string>
+    <string name="project_id" translatable="false">timetraveler-c1046</string>
+</resources>

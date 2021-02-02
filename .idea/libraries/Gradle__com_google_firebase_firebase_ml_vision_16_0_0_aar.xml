@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-ml-vision:16.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-ml-vision-16.0.0.aar/73e637784c98ca696065419e660324d0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9784003eccfcd48190a51ecdb414e0cf/firebase-ml-vision-16.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f9485abc47547a7adb0c4c1d052189c1/firebase-ml-vision-16.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f9485abc47547a7adb0c4c1d052189c1/firebase-ml-vision-16.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f9485abc47547a7adb0c4c1d052189c1/firebase-ml-vision-16.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

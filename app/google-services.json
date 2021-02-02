@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "399141108242",
+    "firebase_url": "https://timetraveler-c1046.firebaseio.com",
+    "project_id": "timetraveler-c1046",
+    "storage_bucket": "timetraveler-c1046.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399141108242:android:f7bb35f44a59839caa76cb",
+        "android_client_info": {
+          "package_name": "com.laya.timetraveller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399141108242-on8njdftnat8tr9ali91vg3scp1edd0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZQAPB3ewcx7ofGkE9LakaLSfWGYQwVDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399141108242-on8njdftnat8tr9ali91vg3scp1edd0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

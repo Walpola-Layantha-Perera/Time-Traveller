@@ -1,0 +1,674 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:2:1-180:12
+INJECTED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:2:1-180:12
+INJECTED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:2:1-180:12
+INJECTED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:2:1-180:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\51cecb6a04f104f24f83dcbce06f0014\design-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\ed75146a91ab967aee94c7b6c9dc41ea\appcompat-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\74723cee28373080870ac26dff19baeb\constraint-layout-1.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-core:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\4e60c3e728c51fd7017848450a341068\firebase-core-16.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-ml-vision:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\f9485abc47547a7adb0c4c1d052189c1\firebase-ml-vision-16.0.0\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-ml-vision-image-label-model:15.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\61420141dfcf94c467c8ca286931062b\firebase-ml-vision-image-label-model-15.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-ml-model-interpreter:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\e9bf5f096334dd5dd3c0eee7781c0720\firebase-ml-model-interpreter-16.0.0\AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\2dcc0c7d76fe854eb78bfc0c36de2908\cardview-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\0a3d4980cbc76031ee0f58f6aa7b654f\firebase-measurement-connector-impl-16.0.0\AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\ad9e54f5a36932cc9b51e27292129c31\firebase-analytics-16.0.0\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\6f090e42f8ef8c64c54614335896b716\play-services-vision-15.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-image-label:15.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\5908155b329a1add0b30134c602aaf15\play-services-vision-image-label-15.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\110b68130d6861a65b756e76dc8ebb4f\play-services-vision-common-15.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-ml-common:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\855c10d29e516474b30feb02514c5266\firebase-ml-common-16.0.0\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\65f9ad726b65990ef31003bd9af7071c\play-services-clearcut-15.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\a8d77471d443cf23f74f062b4a94c019\play-services-flags-15.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\725740416aa45c405286a68bf966e6c6\play-services-phenotype-15.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\8cb6bc5f330c0608711d2ef66e9c43ae\firebase-analytics-impl-16.0.0\AndroidManifest.xml:17:1-41:12
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\c7c2192868a0f8c49249c773aae9d674\firebase-iid-16.0.0\AndroidManifest.xml:17:1-65:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\91ad8b625adfa719a9529d2e04e66166\firebase-iid-interop-16.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\f3ca6322f202d945d2387b4ba86fea4d\play-services-base-15.0.1\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\d73500ab5f8d0026802f0bad5c34ee94\firebase-common-16.0.0\AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\2e3cd14b9352464d1b3bc48fdda94d59\play-services-tasks-15.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\c9146f4a66b8f91e84f177cd2cc5bdd1\play-services-stats-15.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\02f920478c00ae6b2907d0e0054cbc31\firebase-measurement-connector-16.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\b05599516b37ac9dd9665527e63565d4\play-services-ads-identifier-15.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\0fb8b355973539d18b02097de6febf60\play-services-basement-15.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\e8744319024fd13b969df013284d2791\support-v4-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\0b5f4ea19644b5f000e36fba96f9a772\support-fragment-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\b8e8b8f55b6f99c425bf3d9717de0100\animated-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\d6a2aeabe217ea3a15cd3fc0c7a9a1c5\recyclerview-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\97ad7193617e5475617c3e9b9001643a\support-core-ui-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\bfad64fddb6d08ae5f250566bd9478fe\support-core-utils-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\ecb9f0df71fe5dcfb0023ba5403bb45d\support-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\2910617fe308a731f3e8dab5a88a08dd\transition-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\5e10b2e37b45fbc25401f689e6a10cb6\support-media-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\36eaf59111d0aa4977751c71c20d7759\support-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite:0.1.7] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\fdbf48d31df1adc7ba4bbd6b322d82d5\tensorflow-lite-0.1.7\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\71d503b2e82cbedf375c4ffaa5f4d3d6\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\b472173b4a967bc0b991c78231eaa909\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.4] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\48d460e7fc9fffb12cda8224e6eab361\play-services-measurement-base-15.0.4\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\b2323a072b729eeccd5c06168f14487c\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\17d304aaee690c657378869f360c190b\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:2:1-180:12
+INJECTED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:2:1-180:12
+INJECTED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:2:1-180:12
+	package
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:8:5-30
+		INJECTED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:4:5-51
+	xmlns:android
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:2:11-69
+	tools:ignore
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:5:5-60
+	android:versionCode
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:7:5-28
+		INJECTED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml
+	android:allowBackup
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:6:5-31
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:13:22-62
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\0a3d4980cbc76031ee0f58f6aa7b654f\firebase-measurement-connector-impl-16.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\0a3d4980cbc76031ee0f58f6aa7b654f\firebase-measurement-connector-impl-16.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\ad9e54f5a36932cc9b51e27292129c31\firebase-analytics-16.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\ad9e54f5a36932cc9b51e27292129c31\firebase-analytics-16.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\8cb6bc5f330c0608711d2ef66e9c43ae\firebase-analytics-impl-16.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\8cb6bc5f330c0608711d2ef66e9c43ae\firebase-analytics-impl-16.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\c7c2192868a0f8c49249c773aae9d674\firebase-iid-16.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\c7c2192868a0f8c49249c773aae9d674\firebase-iid-16.0.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:15:22-78
+uses-feature#android.hardware.camera
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:17:5-60
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:17:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:18:5-70
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:18:19-67
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:20:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\0a3d4980cbc76031ee0f58f6aa7b654f\firebase-measurement-connector-impl-16.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\0a3d4980cbc76031ee0f58f6aa7b654f\firebase-measurement-connector-impl-16.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\ad9e54f5a36932cc9b51e27292129c31\firebase-analytics-16.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\ad9e54f5a36932cc9b51e27292129c31\firebase-analytics-16.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\8cb6bc5f330c0608711d2ef66e9c43ae\firebase-analytics-impl-16.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\8cb6bc5f330c0608711d2ef66e9c43ae\firebase-analytics-impl-16.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\c7c2192868a0f8c49249c773aae9d674\firebase-iid-16.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\c7c2192868a0f8c49249c773aae9d674\firebase-iid-16.0.0\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:20:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:21:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\0a3d4980cbc76031ee0f58f6aa7b654f\firebase-measurement-connector-impl-16.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\0a3d4980cbc76031ee0f58f6aa7b654f\firebase-measurement-connector-impl-16.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\ad9e54f5a36932cc9b51e27292129c31\firebase-analytics-16.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\ad9e54f5a36932cc9b51e27292129c31\firebase-analytics-16.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\8cb6bc5f330c0608711d2ef66e9c43ae\firebase-analytics-impl-16.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\8cb6bc5f330c0608711d2ef66e9c43ae\firebase-analytics-impl-16.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\c7c2192868a0f8c49249c773aae9d674\firebase-iid-16.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\c7c2192868a0f8c49249c773aae9d674\firebase-iid-16.0.0\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:21:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:22:5-110
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\ad9e54f5a36932cc9b51e27292129c31\firebase-analytics-16.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\ad9e54f5a36932cc9b51e27292129c31\firebase-analytics-16.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\8cb6bc5f330c0608711d2ef66e9c43ae\firebase-analytics-impl-16.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\8cb6bc5f330c0608711d2ef66e9c43ae\firebase-analytics-impl-16.0.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:22:22-107
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\c7c2192868a0f8c49249c773aae9d674\firebase-iid-16.0.0\AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\c7c2192868a0f8c49249c773aae9d674\firebase-iid-16.0.0\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:23:22-79
+permission#com.laya.timetraveller.permission.C2D_MESSAGE
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:25:5-27:47
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\c7c2192868a0f8c49249c773aae9d674\firebase-iid-16.0.0\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:27:9-44
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:26:9-69
+uses-permission#com.laya.timetraveller.permission.C2D_MESSAGE
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:29:5-85
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\c7c2192868a0f8c49249c773aae9d674\firebase-iid-16.0.0\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:29:22-82
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:30:5-75
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:30:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:31:5-80
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:31:22-77
+application
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:33:5-178:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\74723cee28373080870ac26dff19baeb\constraint-layout-1.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\74723cee28373080870ac26dff19baeb\constraint-layout-1.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\4e60c3e728c51fd7017848450a341068\firebase-core-16.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\4e60c3e728c51fd7017848450a341068\firebase-core-16.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-ml-vision-image-label-model:15.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\61420141dfcf94c467c8ca286931062b\firebase-ml-vision-image-label-model-15.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-ml-vision-image-label-model:15.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\61420141dfcf94c467c8ca286931062b\firebase-ml-vision-image-label-model-15.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\0a3d4980cbc76031ee0f58f6aa7b654f\firebase-measurement-connector-impl-16.0.0\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\0a3d4980cbc76031ee0f58f6aa7b654f\firebase-measurement-connector-impl-16.0.0\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\ad9e54f5a36932cc9b51e27292129c31\firebase-analytics-16.0.0\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\ad9e54f5a36932cc9b51e27292129c31\firebase-analytics-16.0.0\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\6f090e42f8ef8c64c54614335896b716\play-services-vision-15.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\6f090e42f8ef8c64c54614335896b716\play-services-vision-15.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-image-label:15.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\5908155b329a1add0b30134c602aaf15\play-services-vision-image-label-15.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-image-label:15.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\5908155b329a1add0b30134c602aaf15\play-services-vision-image-label-15.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\110b68130d6861a65b756e76dc8ebb4f\play-services-vision-common-15.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\110b68130d6861a65b756e76dc8ebb4f\play-services-vision-common-15.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\65f9ad726b65990ef31003bd9af7071c\play-services-clearcut-15.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\65f9ad726b65990ef31003bd9af7071c\play-services-clearcut-15.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\725740416aa45c405286a68bf966e6c6\play-services-phenotype-15.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\725740416aa45c405286a68bf966e6c6\play-services-phenotype-15.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\8cb6bc5f330c0608711d2ef66e9c43ae\firebase-analytics-impl-16.0.0\AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\8cb6bc5f330c0608711d2ef66e9c43ae\firebase-analytics-impl-16.0.0\AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\c7c2192868a0f8c49249c773aae9d674\firebase-iid-16.0.0\AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\c7c2192868a0f8c49249c773aae9d674\firebase-iid-16.0.0\AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\91ad8b625adfa719a9529d2e04e66166\firebase-iid-interop-16.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\91ad8b625adfa719a9529d2e04e66166\firebase-iid-interop-16.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\f3ca6322f202d945d2387b4ba86fea4d\play-services-base-15.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\f3ca6322f202d945d2387b4ba86fea4d\play-services-base-15.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\d73500ab5f8d0026802f0bad5c34ee94\firebase-common-16.0.0\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\d73500ab5f8d0026802f0bad5c34ee94\firebase-common-16.0.0\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\2e3cd14b9352464d1b3bc48fdda94d59\play-services-tasks-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\2e3cd14b9352464d1b3bc48fdda94d59\play-services-tasks-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\c9146f4a66b8f91e84f177cd2cc5bdd1\play-services-stats-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\c9146f4a66b8f91e84f177cd2cc5bdd1\play-services-stats-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\02f920478c00ae6b2907d0e0054cbc31\firebase-measurement-connector-16.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\02f920478c00ae6b2907d0e0054cbc31\firebase-measurement-connector-16.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\b05599516b37ac9dd9665527e63565d4\play-services-ads-identifier-15.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\b05599516b37ac9dd9665527e63565d4\play-services-ads-identifier-15.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\0fb8b355973539d18b02097de6febf60\play-services-basement-15.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\0fb8b355973539d18b02097de6febf60\play-services-basement-15.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [org.tensorflow:tensorflow-lite:0.1.7] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\fdbf48d31df1adc7ba4bbd6b322d82d5\tensorflow-lite-0.1.7\AndroidManifest.xml:4:5-5:19
+MERGED from [org.tensorflow:tensorflow-lite:0.1.7] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\fdbf48d31df1adc7ba4bbd6b322d82d5\tensorflow-lite-0.1.7\AndroidManifest.xml:4:5-5:19
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.4] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\48d460e7fc9fffb12cda8224e6eab361\play-services-measurement-base-15.0.4\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.4] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\48d460e7fc9fffb12cda8224e6eab361\play-services-measurement-base-15.0.4\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:36:9-39
+	android:testOnly
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:37:9-32
+	android:icon
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:35:9-45
+	android:allowBackup
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:34:9-35
+	android:theme
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:38:9-45
+activity#com.laya.timetraveller.Activity49
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:39:9-57
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:39:19-45
+activity#com.laya.timetraveller.Activity48
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:40:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:40:19-45
+activity#com.laya.timetraveller.Activity47
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:41:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:41:19-45
+activity#com.laya.timetraveller.Activity46
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:42:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:42:19-45
+activity#com.laya.timetraveller.Activity45
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:43:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:43:19-45
+activity#com.laya.timetraveller.Activity44
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:44:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:44:19-45
+activity#com.laya.timetraveller.Activity43
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:45:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:45:19-45
+activity#com.laya.timetraveller.Activity42
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:46:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:46:19-45
+activity#com.laya.timetraveller.Activity41
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:47:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:47:19-45
+activity#com.laya.timetraveller.Activity40
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:48:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:48:19-45
+activity#com.laya.timetraveller.Activity39
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:49:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:49:19-45
+activity#com.laya.timetraveller.Activity38
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:50:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:50:19-45
+activity#com.laya.timetraveller.Activity37
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:51:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:51:19-45
+activity#com.laya.timetraveller.Activity36
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:52:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:52:19-45
+activity#com.laya.timetraveller.Activity35
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:53:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:53:19-45
+activity#com.laya.timetraveller.Activity34
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:54:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:54:19-45
+activity#com.laya.timetraveller.Activity33
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:55:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:55:19-45
+activity#com.laya.timetraveller.Activity32
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:56:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:56:19-45
+activity#com.laya.timetraveller.Activity31
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:57:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:57:19-45
+activity#com.laya.timetraveller.Activity30
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:58:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:58:19-45
+activity#com.laya.timetraveller.Activity29
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:59:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:59:19-45
+activity#com.laya.timetraveller.Activity28
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:60:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:60:19-45
+activity#com.laya.timetraveller.Activity27
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:61:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:61:19-45
+activity#com.laya.timetraveller.Activity26
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:62:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:62:19-45
+activity#com.laya.timetraveller.Activity25
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:63:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:63:19-45
+activity#com.laya.timetraveller.Activity24
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:64:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:64:19-45
+activity#com.laya.timetraveller.Activity23
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:65:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:65:19-45
+activity#com.laya.timetraveller.Activity22
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:66:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:66:19-45
+activity#com.laya.timetraveller.Activity21
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:67:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:67:19-45
+activity#com.laya.timetraveller.Activity20
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:68:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:68:19-45
+activity#com.laya.timetraveller.Activity19
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:69:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:69:19-45
+activity#com.laya.timetraveller.Activity18
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:70:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:70:19-45
+activity#com.laya.timetraveller.Activity17
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:71:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:71:19-45
+activity#com.laya.timetraveller.Activity16
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:72:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:72:19-45
+activity#com.laya.timetraveller.Activity15
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:73:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:73:19-45
+activity#com.laya.timetraveller.Activity14
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:74:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:74:19-45
+activity#com.laya.timetraveller.Activity13
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:75:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:75:19-45
+activity#com.laya.timetraveller.Activity12
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:76:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:76:19-45
+activity#com.laya.timetraveller.Activity11
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:77:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:77:19-45
+activity#com.laya.timetraveller.Activity10
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:78:9-48
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:78:19-45
+activity#com.laya.timetraveller.Activity9
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:79:9-47
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:79:19-44
+activity#com.laya.timetraveller.Activity8
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:80:9-47
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:80:19-44
+activity#com.laya.timetraveller.Activity7
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:81:9-47
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:81:19-44
+activity#com.laya.timetraveller.Activity6
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:82:9-47
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:82:19-44
+activity#com.laya.timetraveller.Activity5
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:83:9-47
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:83:19-44
+activity#com.laya.timetraveller.Activity4
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:84:9-47
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:84:19-44
+activity#com.laya.timetraveller.Activity3
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:85:9-47
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:85:19-44
+activity#com.laya.timetraveller.Activity2
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:86:9-47
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:86:19-44
+activity#com.laya.timetraveller.MainActivity
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:87:9-95:20
+	android:exported
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:89:13-36
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:88:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:90:13-94:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:91:17-69
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:91:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:93:17-77
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:93:27-74
+activity#com.laya.timetraveller.LivePreviewActivity
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:96:9-107:20
+	android:exported
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:98:13-36
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:97:13-48
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:109:9-116:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\0a3d4980cbc76031ee0f58f6aa7b654f\firebase-measurement-connector-impl-16.0.0\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\0a3d4980cbc76031ee0f58f6aa7b654f\firebase-measurement-connector-impl-16.0.0\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\c7c2192868a0f8c49249c773aae9d674\firebase-iid-16.0.0\AndroidManifest.xml:35:9-39:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\c7c2192868a0f8c49249c773aae9d674\firebase-iid-16.0.0\AndroidManifest.xml:35:9-39:19
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:109:18-89
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:110:13-112:85
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\0a3d4980cbc76031ee0f58f6aa7b654f\firebase-measurement-connector-impl-16.0.0\AndroidManifest.xml:28:13-30:85
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\0a3d4980cbc76031ee0f58f6aa7b654f\firebase-measurement-connector-impl-16.0.0\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:112:17-82
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:111:17-139
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:113:13-115:85
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\c7c2192868a0f8c49249c773aae9d674\firebase-iid-16.0.0\AndroidManifest.xml:36:13-38:85
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\c7c2192868a0f8c49249c773aae9d674\firebase-iid-16.0.0\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:115:17-82
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:114:17-96
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:118:9-121:40
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\ad9e54f5a36932cc9b51e27292129c31\firebase-analytics-16.0.0\AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\ad9e54f5a36932cc9b51e27292129c31\firebase-analytics-16.0.0\AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\8cb6bc5f330c0608711d2ef66e9c43ae\firebase-analytics-impl-16.0.0\AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\8cb6bc5f330c0608711d2ef66e9c43ae\firebase-analytics-impl-16.0.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:120:13-35
+	android:exported
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:121:13-37
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:119:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:122:9-130:20
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\ad9e54f5a36932cc9b51e27292129c31\firebase-analytics-16.0.0\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\ad9e54f5a36932cc9b51e27292129c31\firebase-analytics-16.0.0\AndroidManifest.xml:34:9-42:20
+	android:enabled
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:124:13-35
+	android:exported
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:125:13-36
+	android:permission
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:126:13-69
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:123:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:127:13-129:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:128:17-79
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:128:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:132:9-135:40
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\ad9e54f5a36932cc9b51e27292129c31\firebase-analytics-16.0.0\AndroidManifest.xml:44:9-47:40
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\ad9e54f5a36932cc9b51e27292129c31\firebase-analytics-16.0.0\AndroidManifest.xml:44:9-47:40
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\8cb6bc5f330c0608711d2ef66e9c43ae\firebase-analytics-impl-16.0.0\AndroidManifest.xml:35:9-38:40
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\8cb6bc5f330c0608711d2ef66e9c43ae\firebase-analytics-impl-16.0.0\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:134:13-35
+	android:exported
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:135:13-37
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:133:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:136:9-140:72
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\ad9e54f5a36932cc9b51e27292129c31\firebase-analytics-16.0.0\AndroidManifest.xml:48:9-52:72
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\ad9e54f5a36932cc9b51e27292129c31\firebase-analytics-16.0.0\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:138:13-35
+	android:exported
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:139:13-37
+	android:permission
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:140:13-69
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:137:13-87
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:142:9-151:20
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\c7c2192868a0f8c49249c773aae9d674\firebase-iid-16.0.0\AndroidManifest.xml:41:9-50:20
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\c7c2192868a0f8c49249c773aae9d674\firebase-iid-16.0.0\AndroidManifest.xml:41:9-50:20
+	android:exported
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:144:13-36
+	android:permission
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:145:13-73
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:143:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.laya.timetraveller
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:146:13-150:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:147:17-81
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:147:25-78
+category#com.laya.timetraveller
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:149:17-67
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:149:27-64
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:156:9-162:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\c7c2192868a0f8c49249c773aae9d674\firebase-iid-16.0.0\AndroidManifest.xml:56:9-62:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\c7c2192868a0f8c49249c773aae9d674\firebase-iid-16.0.0\AndroidManifest.xml:56:9-62:19
+	android:exported
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:158:13-36
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:157:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:159:13-161:29
+	android:priority
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:159:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:160:17-80
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:160:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:164:9-167:75
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\f3ca6322f202d945d2387b4ba86fea4d\play-services-base-15.0.1\AndroidManifest.xml:23:9-26:75
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\f3ca6322f202d945d2387b4ba86fea4d\play-services-base-15.0.1\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:166:13-37
+	android:theme
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:167:13-72
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:165:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:169:9-173:39
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\d73500ab5f8d0026802f0bad5c34ee94\firebase-common-16.0.0\AndroidManifest.xml:9:9-13:39
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\d73500ab5f8d0026802f0bad5c34ee94\firebase-common-16.0.0\AndroidManifest.xml:9:9-13:39
+	android:authorities
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:171:13-78
+	android:exported
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:172:13-37
+	android:initOrder
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:173:13-36
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:170:13-77
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:175:9-177:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\0fb8b355973539d18b02097de6febf60\play-services-basement-15.0.1\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\0fb8b355973539d18b02097de6febf60\play-services-basement-15.0.1\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:177:13-66
+	android:name
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml:176:13-58
+uses-sdk
+INJECTED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\51cecb6a04f104f24f83dcbce06f0014\design-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\51cecb6a04f104f24f83dcbce06f0014\design-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\ed75146a91ab967aee94c7b6c9dc41ea\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\ed75146a91ab967aee94c7b6c9dc41ea\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\74723cee28373080870ac26dff19baeb\constraint-layout-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\74723cee28373080870ac26dff19baeb\constraint-layout-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\4e60c3e728c51fd7017848450a341068\firebase-core-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\4e60c3e728c51fd7017848450a341068\firebase-core-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-vision:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\f9485abc47547a7adb0c4c1d052189c1\firebase-ml-vision-16.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-vision:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\f9485abc47547a7adb0c4c1d052189c1\firebase-ml-vision-16.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-vision-image-label-model:15.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\61420141dfcf94c467c8ca286931062b\firebase-ml-vision-image-label-model-15.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-vision-image-label-model:15.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\61420141dfcf94c467c8ca286931062b\firebase-ml-vision-image-label-model-15.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-model-interpreter:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\e9bf5f096334dd5dd3c0eee7781c0720\firebase-ml-model-interpreter-16.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-model-interpreter:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\e9bf5f096334dd5dd3c0eee7781c0720\firebase-ml-model-interpreter-16.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\2dcc0c7d76fe854eb78bfc0c36de2908\cardview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\2dcc0c7d76fe854eb78bfc0c36de2908\cardview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\0a3d4980cbc76031ee0f58f6aa7b654f\firebase-measurement-connector-impl-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\0a3d4980cbc76031ee0f58f6aa7b654f\firebase-measurement-connector-impl-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\ad9e54f5a36932cc9b51e27292129c31\firebase-analytics-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\ad9e54f5a36932cc9b51e27292129c31\firebase-analytics-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\6f090e42f8ef8c64c54614335896b716\play-services-vision-15.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\6f090e42f8ef8c64c54614335896b716\play-services-vision-15.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-image-label:15.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\5908155b329a1add0b30134c602aaf15\play-services-vision-image-label-15.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-image-label:15.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\5908155b329a1add0b30134c602aaf15\play-services-vision-image-label-15.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\110b68130d6861a65b756e76dc8ebb4f\play-services-vision-common-15.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\110b68130d6861a65b756e76dc8ebb4f\play-services-vision-common-15.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-common:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\855c10d29e516474b30feb02514c5266\firebase-ml-common-16.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-common:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\855c10d29e516474b30feb02514c5266\firebase-ml-common-16.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\65f9ad726b65990ef31003bd9af7071c\play-services-clearcut-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\65f9ad726b65990ef31003bd9af7071c\play-services-clearcut-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\a8d77471d443cf23f74f062b4a94c019\play-services-flags-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\a8d77471d443cf23f74f062b4a94c019\play-services-flags-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\725740416aa45c405286a68bf966e6c6\play-services-phenotype-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\725740416aa45c405286a68bf966e6c6\play-services-phenotype-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\8cb6bc5f330c0608711d2ef66e9c43ae\firebase-analytics-impl-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\8cb6bc5f330c0608711d2ef66e9c43ae\firebase-analytics-impl-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\c7c2192868a0f8c49249c773aae9d674\firebase-iid-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\c7c2192868a0f8c49249c773aae9d674\firebase-iid-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\91ad8b625adfa719a9529d2e04e66166\firebase-iid-interop-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\91ad8b625adfa719a9529d2e04e66166\firebase-iid-interop-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\f3ca6322f202d945d2387b4ba86fea4d\play-services-base-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\f3ca6322f202d945d2387b4ba86fea4d\play-services-base-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\d73500ab5f8d0026802f0bad5c34ee94\firebase-common-16.0.0\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\d73500ab5f8d0026802f0bad5c34ee94\firebase-common-16.0.0\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\2e3cd14b9352464d1b3bc48fdda94d59\play-services-tasks-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\2e3cd14b9352464d1b3bc48fdda94d59\play-services-tasks-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\c9146f4a66b8f91e84f177cd2cc5bdd1\play-services-stats-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\c9146f4a66b8f91e84f177cd2cc5bdd1\play-services-stats-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\02f920478c00ae6b2907d0e0054cbc31\firebase-measurement-connector-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\02f920478c00ae6b2907d0e0054cbc31\firebase-measurement-connector-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\b05599516b37ac9dd9665527e63565d4\play-services-ads-identifier-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\b05599516b37ac9dd9665527e63565d4\play-services-ads-identifier-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\0fb8b355973539d18b02097de6febf60\play-services-basement-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\0fb8b355973539d18b02097de6febf60\play-services-basement-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\e8744319024fd13b969df013284d2791\support-v4-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\e8744319024fd13b969df013284d2791\support-v4-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\0b5f4ea19644b5f000e36fba96f9a772\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\0b5f4ea19644b5f000e36fba96f9a772\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\b8e8b8f55b6f99c425bf3d9717de0100\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\b8e8b8f55b6f99c425bf3d9717de0100\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\d6a2aeabe217ea3a15cd3fc0c7a9a1c5\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\d6a2aeabe217ea3a15cd3fc0c7a9a1c5\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\97ad7193617e5475617c3e9b9001643a\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\97ad7193617e5475617c3e9b9001643a\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\bfad64fddb6d08ae5f250566bd9478fe\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\bfad64fddb6d08ae5f250566bd9478fe\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\ecb9f0df71fe5dcfb0023ba5403bb45d\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\ecb9f0df71fe5dcfb0023ba5403bb45d\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\2910617fe308a731f3e8dab5a88a08dd\transition-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\2910617fe308a731f3e8dab5a88a08dd\transition-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\5e10b2e37b45fbc25401f689e6a10cb6\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\5e10b2e37b45fbc25401f689e6a10cb6\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\36eaf59111d0aa4977751c71c20d7759\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\36eaf59111d0aa4977751c71c20d7759\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\71d503b2e82cbedf375c4ffaa5f4d3d6\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\71d503b2e82cbedf375c4ffaa5f4d3d6\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\b472173b4a967bc0b991c78231eaa909\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\b472173b4a967bc0b991c78231eaa909\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.4] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\48d460e7fc9fffb12cda8224e6eab361\play-services-measurement-base-15.0.4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.4] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\48d460e7fc9fffb12cda8224e6eab361\play-services-measurement-base-15.0.4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\b2323a072b729eeccd5c06168f14487c\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\b2323a072b729eeccd5c06168f14487c\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\17d304aaee690c657378869f360c190b\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\17d304aaee690c657378869f360c190b\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\walpo\AndroidStudioProjects\Time_Traveler\app\src\main\AndroidManifest.xml
+permission#${applicationId}.permission.C2D_MESSAGE
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\c7c2192868a0f8c49249c773aae9d674\firebase-iid-16.0.0\AndroidManifest.xml:28:5-30:47
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\walpo\.gradle\caches\transforms-2\files-2.1\c7c2192868a0f8c49249c773aae9d674\firebase-iid-16.0.0\AndroidManifest.xml:32:5-79
