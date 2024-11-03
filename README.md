@@ -1,4 +1,21 @@
-Description of the APP: Vast amount of 2D images, 3D models, textual, and historical data has been generated already by academic, non-governmental and commercial organizations. Artificial Intelligence (AI) can help to interpret and present this big data of historical information on mobile apps in creative and interesting ways. Therefore, building an AI supported mobile app by using this big data to travel through the history of an architectural icon is the aim of this project.
+Time-Traveller
+--------------
+Time-Traveller is an AI-powered mobile application designed to take users on a virtual journey through architectural history. Using big data, this app enables users to explore the cultural heritage of landmark buildings through features like image recognition, text recognition, and classification. The app serves as a valuable tool for researchers, students, tourists, and history enthusiasts interested in architectural and historical exploration.
+
+Features
+Historical Building Recognition: Identifies architectural landmarks from images.
+Text Recognition: Reads historical information from building plaques or signs.
+Image Labeling & Classification: Categorizes structures by type and historical period.
+Virtual Time Travel: Provides detailed historical insights into architectural icons.
+Usage
+This application is especially useful for students and researchers in the fields of art, history, and architecture. It provides quick, interactive access to vast cultural datasets, enabling users to deepen their understanding of architectural heritage.
+
+Technologies
+Android: Core platform for mobile app functionality.
+Artificial Intelligence & Machine Learning: Implements image processing and data classification.
+Big Data: Leverages extensive datasets to provide historical insights.
+License and Credits
+Time-Traveller uses open-source tools and data from academic, non-governmental, and commercial sources. Please review the repository for more details on licenses and attributions.Description of the APP: Vast amount of 2D images, 3D models, textual, and historical data has been generated already by academic, non-governmental and commercial organizations. Artificial Intelligence (AI) can help to interpret and present this big data of historical information on mobile apps in creative and interesting ways. Therefore, building an AI supported mobile app by using this big data to travel through the history of an architectural icon is the aim of this project.
 
 Short description about the app: Travel virtually to the history of buildings.
 Long description: This app can be used to recognize landmark buildings, recognizing texts on historical buildings, and classification. Also, the app can be used to virtually travel to the history of buildings.
