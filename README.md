@@ -1,4 +1,4 @@
-Time-Traveller
+Time Traveller
 ---------------
 Time-Traveller is an AI-powered mobile application designed to take users on a virtual journey through architectural history. By leveraging big data, the app enables users to explore the cultural heritage of landmark buildings through image recognition, text reading, and historical classification. This tool is invaluable for students, researchers, history enthusiasts, and tourists interested in the architectural past.
 
@@ -33,7 +33,8 @@ Technologies:
 Android: Core platform for mobile app functionality.
 Artificial Intelligence & Machine Learning: Integrates Google’s ML Kit for image processing and data classification.
 Big Data: Utilizes extensive datasets for historical insights, including architectural and cultural information from various sources.
-📚 Description
+
+Description:  
 Time-Traveller uses existing 2D images, 3D models, and text to bring history to life through AI. By organizing and interpreting vast historical data on mobile devices, the app lets users virtually explore architectural history in a compelling way.
 
 App Highlights: 
